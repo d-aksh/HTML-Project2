@@ -1,0 +1,121 @@
+body {
+  margin: 0px;
+}
+
+/* Header CSS Start */
+
+header {
+  text-align: center;
+  padding: 150px;
+  background-image: url("background3.jpg");
+  background-position: right;
+  background-size: cover;
+}
+.d1 {
+  width: 600px;
+  margin-left: 550px;
+  color: whitesmoke;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: x-large;
+}
+button {
+  padding: 20px;
+  color: whitesmoke;
+  background-color: rgb(105, 169, 105);
+  border-radius: 10px;
+  border: 0px;
+
+  font-size: large;
+}
+button:hover {
+  background-color: rgb(56, 111, 56);
+}
+
+/* Section 1 CSS Start*/
+
+#s3 {
+  text-align: center;
+  padding: 50px 100px 10px 100px;
+  width: 630px;
+  margin-left: 420px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+#s3 h1 {
+  color: rgb(3, 94, 58);
+  font-size: 40px;
+}
+#s3 p {
+  color: rgb(93, 92, 92);
+}
+
+/* Section 2 CSS Start */
+
+#s1 {
+  padding: 0px 300px 100px 350px;
+}
+.d3 {
+  width: 230px;
+  display: inline-block;
+  vertical-align: top;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+
+  margin: 0px 50px 0px 50px;
+}
+.d3 h2 {
+  color: rgb(3, 94, 58);
+}
+.d3 p {
+  color: rgb(83, 82, 82);
+}
+
+/* Section 3 CSS Start */
+
+#s2 {
+  padding: 80px 300px 30px 300px;
+  text-align: center;
+  background-color: rgb(244, 240, 240);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(83, 82, 82);
+}
+#s2 p {
+  font-size: large;
+}
+#s2 h1 {
+  font-size: 40px;
+}
+
+/* Section3 > div  */
+#image1 {
+  display: inline-block;
+  background-color: white;
+  margin: 0px 10px 0px 10px;
+}
+figcaption {
+  font-size: large;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: rgb(111, 111, 111);
+  padding: 20px 40px 20px 40px;
+}
+
+#image2 {
+  display: inline-block;
+  margin: 0px 10px 0px 10px;
+  padding-top: 50px;
+}
+
+/* Footer CSS Start */
+
+footer {
+  padding: 80px;
+  padding-bottom: 120px;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+footer h1 {
+  color: rgb(3, 94, 58);
+  font-size: 300%;
+}
+footer p {
+  color: rgb(138, 136, 136);
+  font-size: large;
+}
